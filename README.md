@@ -1,36 +1,103 @@
-### Hi there 👋 I'm Irvan Rifai
+<h1 align="center">Hey 👋, I'm Irvan Rifai</h1>
+<p align="center">
+  <em>Backend Developer • API Architect • Linux Enthusiast</em>
+</p>
 
-I'm a passionate backend developer (and growing fullstack dev) who enjoys building scalable systems and clean APIs.
-
-- 🔭 I’m currently working on: [Project Name](#)
-- 🌱 Learning: NestJS, PostgreSQL, Docker
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
-
----
-
-### 🛠️ Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1AF3C0&center=true&vCenter=true&width=435&lines=Backend+Developer;API+Engineer;Node.js+%7C+PostgreSQL+%7C+Docker+%7C+Redis;I+love+building+robust+scalable+systems" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Irvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvanrifai&show_icons=true&theme=radical)
+## 🧠 About Me
+
+- 💼 Currently working on **microservices, authentication systems**, and **CI/CD pipelines**
+- 💡 I enjoy solving complex backend problems and optimizing databases
+- ⚙️ Familiar with: `Node.js`, `Express`, `PostgreSQL`, `Redis`, `MongoDB`, `Docker`, `Kafka`
+- 🔍 Always learning: **NestJS**, **Go**, **Kubernetes**
+- ✍️ Writing clean, maintainable, testable backend code is my jam
 
 ---
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=irvanrifai&theme=darkhub)
+## 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br/>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>Git</td>
+  </tr>
+</table>
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irvanrifai&theme=dark)
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irvanrifai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=irvanrifai&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvanrifai&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 
 ---
 
-### 🚀 Featured Projects
-- 🔧 [My Backend Project](https://github.com/irvanrifai/your-project)
-- 💻 [My Fullstack App](https://github.com/irvanrifai/your-other-project)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=irvanrifai&theme=onedark&column=7" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Name | Description | Tech |
+|------|-------------|------|
+| [**SecureAuth API**](https://github.com/irvanrifai/secure-auth) | JWT + 2FA + refresh token secure backend with audit logs | `Node.js`, `PostgreSQL`, `Docker`, `Redis` |
+| [**JobBoard API**](https://github.com/irvanrifai/jobboard-api) | RESTful backend for job listings, applications, and admin moderation | `Express`, `MongoDB`, `Auth`, `Swagger` |
+| [**Real-time Chat Service**](https://github.com/irvanrifai/chat-app-backend) | Real-time backend with WebSocket support, channels, and logging | `Socket.io`, `Redis`, `PostgreSQL` |
+
+---
+
+## 📚 Recent Blog Posts *(optional – if you write blogs)*
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built a Scalable Auth System with Node & Redis](#)
+- [5 PostgreSQL Query Tricks for Backend Devs](#)
+- [Deploying Express APIs with Docker & GitHub Actions](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📌 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg?username=irvanrifai&theme=github-compact"/>
+</p>
+
+---
+
+## 🧩 Fun Facts
+
+- 🐧 I run Linux as my daily driver
+- 🔁 Obsessed with optimizing async workflows & queues
+- 🎧 Most productive when listening to synthwave
+
+---
+
+## 📫 Contact
+
+- 📧 Email: `irvanrifai@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 🧪 Portfolio: [https://yourwebsite.com](https://yourwebsite.com)
+
+---
+
+> ⭐️ *“Clean code always wins. Good architecture pays off.”*
+
