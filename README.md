@@ -38,8 +38,8 @@
 </table>
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" width="50"/><br/>React JS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" width="50"/><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>React JS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br/>Tailwind CSS</td>
   </tr>
 </table>
 <table>
