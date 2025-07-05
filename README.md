@@ -50,7 +50,7 @@
 </table>
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google-cloud-platform/google-cloud-platform-original.svg" width="50"/><br/>Google Cloud Storage</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br/>Google Cloud Storage</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br/>Digital Ocean Space</td>
   </tr>
 </table>
