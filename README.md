@@ -76,21 +76,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irvanrifai&theme=onedark&column=7" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Name | Description | Tech |
 |------|-------------|------|
-| [**SecureAuth API**](https://github.com/irvanrifai/secure-auth) | JWT + 2FA + refresh token secure backend with audit logs | `Node.js`, `PostgreSQL`, `Docker`, `Redis` |
-| [**JobBoard API**](https://github.com/irvanrifai/jobboard-api) | RESTful backend for job listings, applications, and admin moderation | `Express`, `MongoDB`, `Auth`, `Swagger` |
-| [**Real-time Chat Service**](https://github.com/irvanrifai/chat-app-backend) | Real-time backend with WebSocket support, channels, and logging | `Socket.io`, `Redis`, `PostgreSQL` |
+| [**Contact Management API**](https://github.com/irvanrifai/contact-management-backend) | Auth user, CRUD contact, CRUD address | `Node.js`, `Express`, `MySQL` |
 
 ---
 
