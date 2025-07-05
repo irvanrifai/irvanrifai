@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋, I'm Irvan Rifai</h1>
+<h1 align="center">Hello everyone, I'm Irvan Rifai</h1>
 <p align="center">
-  <em>Backend Developer • API Architect • Linux Enthusiast</em>
+  <em>Full Stack Web Developer • Backend Developer</em>
 </p>
 
 <p align="center">
@@ -13,9 +13,8 @@
 
 - 💼 Currently working on **microservices, authentication systems**, and **CI/CD pipelines**
 - 💡 I enjoy solving complex backend problems and optimizing databases
-- ⚙️ Familiar with: `Node.js`, `Express`, `PostgreSQL`, `Redis`, `MongoDB`, `Docker`, `Kafka`
+- ⚙️ Familiar with: `Node.js`, `Express`, `PostgreSQL`, `MongoDB`, `Docker`, `Dart`
 - 🔍 Always learning: **NestJS**, **Go**, **Kubernetes**
-- ✍️ Writing clean, maintainable, testable backend code is my jam
 
 ---
 
@@ -65,37 +64,11 @@
 
 ---
 
-## 📚 Recent Blog Posts *(optional – if you write blogs)*
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Scalable Auth System with Node & Redis](#)
-- [5 PostgreSQL Query Tricks for Backend Devs](#)
-- [Deploying Express APIs with Docker & GitHub Actions](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📌 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=irvanrifai&theme=github-compact" />
-</p>
-
----
-
-## 🧩 Fun Facts
-
-- 🐧 I run Linux as my daily driver
-- 🔁 Obsessed with optimizing async workflows & queues
-- 🎧 Most productive when listening to synthwave
-
----
-
 ## 📫 Contact
 
-- 📧 Email: `irvanrifai@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🧪 Portfolio: [https://yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: `ivan.rivai6921@gmail.com`
+- 💼 LinkedIn: [https://www.linkedin.com/in/irvan-rifai](https://www.linkedin.com/in/irvan-rifai)
+- 🧪 Web Portfolio: [http://irvanrifai.my.id](http://irvanrifai.my.id)
 
 ---
 
