@@ -11,10 +11,10 @@
 
 ## 🧠 About Me
 
-- 💼 Currently working on **microservices, authentication systems**, and **CI/CD pipelines**
+- 💼 Currently working on **monolith and microservices**
 - 💡 I enjoy solving complex backend problems and optimizing databases
-- ⚙️ Familiar with: `Node.js`, `Express`, `PostgreSQL`, `MongoDB`, `Docker`, `Dart`
-- 🔍 Always learning: **NestJS**, **Go**, **Kubernetes**
+- ⚙️ Familiar with: `jQuery`, `Express`, `PostgreSQL`, `MongoDB`, `Flutter`
+- 🔍 Always learning: **NodeJS**, **Go**, **ReactJS**, **Docker**, **AWS**
 
 ---
 
@@ -24,9 +24,8 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/>Node.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/><br/>Go</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br/>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/>MongoDB</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>Git</td>
   </tr>
 </table>
