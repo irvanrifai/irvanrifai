@@ -78,7 +78,7 @@
 ## 📌 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg?username=irvanrifai&theme=github-compact"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=irvanrifai&theme=github-compact" />
 </p>
 
 ---
