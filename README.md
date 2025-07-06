@@ -4,14 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1AF3C0&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Backend+Developer;Laravel+%7C+Golang+%7C+Node+JS+%7C+React+JS;MySQL+%7C+PostgreSQL+%7C+MongoDB;I+love+building+robust+&+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1AF3C0&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Backend+Developer;Laravel+%7C+Golang+%7C+Node+JS+%7C+React+JS;MySQL+%7C+PostgreSQL+%7C+MongoDB;I+love+building+robust+and+scalable+systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💼 Currently working on **monolith and microservices**
 - 💡 I enjoy solving complex backend problems and optimizing databases
 - ⚙️ Familiar with: `jQuery`, `Express`, `PostgreSQL`, `MongoDB`, `Flutter`
 - 🔍 Always learning: **NodeJS**, **Go**, **ReactJS**, **Docker**, **AWS**
