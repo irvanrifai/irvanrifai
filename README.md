@@ -9,14 +9,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 💡 I enjoy solving complex backend problems and optimizing databases
-- ⚙️ Familiar with: `jQuery`, `Express`, `PostgreSQL`, `MongoDB`, `Flutter`
-- 🔍 Always learning: **NodeJS**, **Go**, **ReactJS**, **Docker**, **AWS**
-
----
-
 ## 🧰 Tech Stack
 
 <table>
@@ -59,27 +51,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>Github</td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irvanrifai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
-  <img src="https://streak-stats.demolab.com?user=irvanrifai&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvanrifai&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Name | Description | Tech |
-|------|-------------|------|
-| [**Contact Management API**](https://github.com/irvanrifai/contact-management-backend) | Auth user, CRUD contact, CRUD address | `Node.js`, `Express`, `MySQL` |
 
 ---
 
