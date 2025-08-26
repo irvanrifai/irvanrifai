@@ -1,6 +1,6 @@
-<h1 align="center">Hello everyone, I'm Irvan Rifai</h1>
+<h1 align="center">Hi, I'm Irvan Rifai</h1>
 <p align="center">
-  <em>Full Stack Web Developer • Backend Developer</em>
+  <em>Software Engineer</em>
 </p>
 
 <p align="center">
@@ -59,8 +59,4 @@
 - 📧 Email: `ivan.rivai6921@gmail.com`
 - 💼 LinkedIn: [https://www.linkedin.com/in/irvan-rifai](https://www.linkedin.com/in/irvan-rifai)
 - 🧪 Web Portfolio: [http://irvanrifai.my.id](http://irvanrifai.my.id)
-
----
-
-> ⭐️ *“Clean code always wins. Good architecture pays off.”*
 
