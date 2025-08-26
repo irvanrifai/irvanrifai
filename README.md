@@ -41,6 +41,12 @@
 </table>
 <table>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/ror-original.svg" width="50"/><br/>Ruby on Rails</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/sqlite-original.svg" width="50"/><br/>SQLite</td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br/>Google Cloud Storage</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="50"/><br/>Digital Ocean Space</td>
   </tr>
