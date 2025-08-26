@@ -41,8 +41,8 @@
 </table>
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/ror-original.svg" width="50"/><br/>Ruby on Rails</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/sqlite-original.svg" width="50"/><br/>SQLite</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" width="50"/><br/>Ruby on Rails</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/><br/>SQLite</td>
   </tr>
 </table>
 <table>
