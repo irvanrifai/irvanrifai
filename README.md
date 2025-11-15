@@ -64,5 +64,5 @@
 
 - 📧 Email: `ivan.rivai6921@gmail.com`
 - 💼 LinkedIn: [https://www.linkedin.com/in/irvan-rifai](https://www.linkedin.com/in/irvan-rifai)
-- 🧪 Web Portfolio: [http://irvanrifai.my.id](http://irvanrifai.my.id)
+- 🧪 Web Portfolio: [https://irvanrifai.my.id](https://irvanrifai.my.id)
 
